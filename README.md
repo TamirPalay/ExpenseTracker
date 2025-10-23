@@ -30,7 +30,6 @@ NexaTrack is a modern, professional-grade expense tracking experience built with
    ```bash
    npm install
    ```
-   > If your environment enforces a registry proxy, configure it before installing. The project does not require any global packages.
 2. **Start the development server**
    ```bash
    npm run dev
