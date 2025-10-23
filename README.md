@@ -35,6 +35,18 @@ NexaTrack is a modern, professional-grade expense tracking experience built with
    npm run dev
    ```
 3. Open [http://localhost:3000](http://localhost:3000) to explore the dashboard.
+4. Stop the server at any time with <kbd>Ctrl</kbd>+<kbd>C</kbd> in the terminal.
+
+### Previewing in a production-like build
+
+If you prefer to inspect an optimized build, run:
+
+```bash
+npm run build
+npm run start
+```
+
+Then open [http://localhost:3000](http://localhost:3000) again.
 
 ## 📦 Available Scripts
 
